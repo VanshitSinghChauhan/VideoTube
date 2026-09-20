@@ -16,7 +16,8 @@ const connectDB = async () => {
 };
 export default connectDB;
 
-//Another method to connect mongo db is use this code directly in main index.js// import mongoose from "mongoose";
+//Another method to connect mongo db is use this code directly in main index.js
+// import mongoose from "mongoose";
 // import { DB_NAME } from "./constants.js";
 // import express from "express";
 
